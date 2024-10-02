@@ -1,8 +1,10 @@
-body {
-    background-color: navy; 
-}
+
 
 h1 {
     font-family: 'Arial'; 
     color: green; 
+}
+p {
+    color: green; 
+    background-color: navy; 
 }
